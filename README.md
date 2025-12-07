@@ -63,13 +63,12 @@ calc_app/
 
 Tests run automatically on every push and pull actions.
 
----
-
----
+------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 # Python Language Conventions
 
-This README contains a comprehensive list of Python coding conventions based on PEP 8, PEP 20 (Zen of Python), and widely accepted industry practices.
+The following sections contains a comprehensive list of Python coding conventions and widely accepted industry practices.
 
 ---
 
@@ -257,6 +256,6 @@ Use the built-in logging module instead of print for production code
 - Write meaningful and readable names
 - Keep modules focused on a single purpose
 
----
+------------------------------------------------------------------------
 
 # End of README
