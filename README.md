@@ -53,6 +53,7 @@ calc_app/
 ├── calculator.py         # Main calculator logic
 ├── test_calculator.py    # Unit tests
 ├── requirements.txt      # pytest and other requirements (if added in future)
+├── .github/workflows/python-test.yml    # github actions workflow defined
 └── README.md             # Project documentation
 ```
 
